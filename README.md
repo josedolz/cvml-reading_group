@@ -8,5 +8,3 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 - **Presenter:** [Presenter Name]
 
 ## Previous Meetings
-- [Meeting 1](meetings/meeting-01.md)
-- [Meeting 2](meetings/meeting-02.md)
