@@ -7,7 +7,7 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 - **Date:** [September,4th - 2024]
 - **Paper:** [Paper Title] [Paper link]
 - **Presenter:** [Presenter Name]
-
+----------------------------------
 - **Date:** [September,11th - 2024]
 - **Paper:** [Paper Title] [Paper link]
 - **Presenter:** [Presenter Name]
