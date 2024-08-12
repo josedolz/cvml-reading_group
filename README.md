@@ -1,6 +1,6 @@
 # Welcome to Our Reading Group in CV and ML
 
-This website contains resources, meeting notes, and updates for our PhD/MSc and post-docs reading group.
+This website contains resources, meeting notes, and updates for our PhD/MSc and post-docs reading group. They will take place every Wednesday at 11h00 AM at the LIVIA laboratory.
 
 ## Upcoming Meetings
 
