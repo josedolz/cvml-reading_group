@@ -4,7 +4,7 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 
 ## Upcoming Meetings
 - **Date:** [Next Meeting Date]
-- **Paper:** [Paper Title]
+- **Paper:** [Paper Title] [Paper link]
 - **Presenter:** [Presenter Name]
 
 ## Previous Meetings
