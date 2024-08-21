@@ -14,7 +14,7 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 ----------------------------------
 - **Date:** [September,18th - 2024]
 - **Paper:** [Paper Title] [Paper link]
-- **Presenter:** [Presenter Name]
+- **Presenter:** [Balamurali Murugesan]
 ----------------------------------
 - **Date:** [September,25th - 2024]
 - **Paper:** [Paper Title] [Paper link]
