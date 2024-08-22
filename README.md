@@ -22,7 +22,7 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 ----------------------------------
 - **Date:** [October,2nd - 2024]
 - **Paper:** [Paper Title] [Paper link]
-- **Presenter:** [Presenter Name]
+- **Presenter:** [Sina Hajimiri]
 ----------------------------------
 - **Date:** [October,9th - 2024]
 - **Paper:** [Paper Title] [Paper link]
