@@ -26,7 +26,7 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 ----------------------------------
 - **Date:** [October,9th - 2024]
 - **Paper:** [Paper Title] [Paper link]
-- **Presenter:** [Presenter Name]
+- **Presenter:** [Shambhavi Mishra]
 ----------------------------------
 - **Date:** [October,16th - 2024]
 - **Paper:** [Paper Title] [Paper link]
