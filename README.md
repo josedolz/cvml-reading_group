@@ -13,7 +13,8 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 - **Presenter:** [Presenter Name]
 ----------------------------------
 - **Date:** [September,18th - 2024]
-- **Paper:** [Paper Title] [Paper link]
+- **Paper:** [CaMML: Context-Aware Multimodal Learner for Large Models
+] [[Paper link](https://arxiv.org/abs/2401.03149)]
 - **Presenter:** [Balamurali Murugesan]
 ----------------------------------
 - **Date:** [September,25th - 2024]
