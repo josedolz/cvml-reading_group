@@ -1,16 +1,12 @@
 # Welcome to Our Reading Group in CV and ML
 
-This website contains resources, meeting notes, and updates for our PhD/MSc and post-docs reading group. They will take place every Wednesday at 11h00 AM at the LIVIA laboratory.
+This website contains resources, meeting notes, and updates for our PhD/MSc and post-docs reading group. They will occur every Wednesday at 10h30m AM at the LIVIA laboratory.
 
 ## Upcoming Meetings
 
-- **Date:** [September,4th - 2024]
-- **Paper:** [Paper Title] [Paper link]
-- **Presenter:** [Presenter Name]
-----------------------------------
 - **Date:** [September,11th - 2024]
-- **Paper:** [Paper Title] [Paper link]
-- **Presenter:** [Presenter Name]
+- **Paper:** [Uncertainty Sets for Image Classifiers using Conformal Prediction] [[Paper link](https://arxiv.org/abs/2009.14193)]
+- **Presenter:** [Julio Silva-Rodríguez]
 ----------------------------------
 - **Date:** [September,18th - 2024]
 - **Paper:** [CaMML: Context-Aware Multimodal Learner for Large Models
