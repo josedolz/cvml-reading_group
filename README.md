@@ -14,7 +14,8 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 - **Presenter:** [Balamurali Murugesan]
 ----------------------------------
 - **Date:** [September,25th - 2024]
-- **Paper:** [Paper Title] [Paper link]
+- **Paper:** [INTERPRETING CLIP’S IMAGE REPRESENTATION VIA TEXT-BASED DECOMPOSITION
+] [[Paper link](https://yossigandelsman.github.io/clip_decomposition/)]
 - **Presenter:** [Farzad Beizaee]
 ----------------------------------
 - **Date:** [October,2nd - 2024]
