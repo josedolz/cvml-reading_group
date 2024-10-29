@@ -24,6 +24,9 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 - **Paper:** Vision Transformers Need Registers [[Paper link](https://arxiv.org/pdf/2309.16588)]
 - **Presenter:** Sina Hajimiri
 ----------------------------------
+- **Date:** [October,16th - 2024]
+- **Postponed**
+----------------------------------
 - **Date:** [October,23th - 2024]
 - **Postponed**
 ----------------------------------
