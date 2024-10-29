@@ -25,17 +25,12 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 - **Paper:** Vision Transformers Need Registers [[Paper link](https://arxiv.org/pdf/2309.16588)]
 - **Presenter:** Sina Hajimiri
 ----------------------------------
-- **Date:** [October,16th - 2024]
-- **Paper:** [Were RNNs All We Needed?] [[Paper link](https://arxiv.org/pdf/2410.01201)]
-- **Presenter:** [Shambhavi Mishra]
-----------------------------------
 - **Date:** [October,23th - 2024]
-- **Paper:** [Paper Title] [Paper link]
-- **Presenter:** [Presenter Name]
+- **Postponed**
 ----------------------------------
 - **Date:** [October,30th - 2024]
-- **Paper:** [Paper Title] [Paper link]
-- **Presenter:** [Presenter Name]
+- **Paper:** [Were RNNs All We Needed?] [[Paper link](https://arxiv.org/pdf/2410.01201)]
+- **Presenter:** [Shambhavi Mishra]
  ---------------------------------- 
 - **Date:** [November,6th - 2024]
 - **Paper:** [Paper Title] [Paper link]
