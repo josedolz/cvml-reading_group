@@ -4,6 +4,18 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 
 ## Upcoming Meetings
 
+- **Date:** [November,6th - 2024]
+- **Paper:** [Paper Title] [Paper link]
+- **Presenter:** [Presenter Name]
+----------------------------------
+** CVPR Submission Deadline **
+----------------------------------
+- **Date:** [November,20th - 2024]
+- **Paper:** [Paper Title] [Paper link]
+- **Presenter:** [Presenter Name]
+
+## Previous Meetings
+
 - **Date:** [September,11th - 2024]
 - **Paper:** [Uncertainty Sets for Image Classifiers using Conformal Prediction] [[Paper link](https://arxiv.org/abs/2009.14193)]
 - **Presenter:** [Julio Silva-Rodríguez]
@@ -34,14 +46,3 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 - **Paper:** [Were RNNs All We Needed?] [[Paper link](https://arxiv.org/pdf/2410.01201)]
 - **Presenter:** [Shambhavi Mishra]
  ---------------------------------- 
-- **Date:** [November,6th - 2024]
-- **Paper:** [Paper Title] [Paper link]
-- **Presenter:** [Presenter Name]
-----------------------------------
-** CVPR Submission Deadline **
-----------------------------------
-- **Date:** [November,20th - 2024]
-- **Paper:** [Paper Title] [Paper link]
-- **Presenter:** [Presenter Name]
-
-## Previous Meetings
