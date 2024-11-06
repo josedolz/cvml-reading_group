@@ -5,8 +5,8 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 ## Upcoming Meetings
 
 - **Date:** [November,6th - 2024]
-- **Paper:** [Paper Title] [Paper link]
-- **Presenter:** [Presenter Name]
+- **Paper:** [RECIST-Induced Reliable Learning: Geometry-Driven Label Propagation for Universal Lesion Segmentation](https://doi.org/10.1109/tmi.2023.3294824)
+- **Presenter:** Damien Djomby
 ----------------------------------
 - **Date:** [November,13th - 2024]
 - **Paper:** [Paper Title] [Paper link]
