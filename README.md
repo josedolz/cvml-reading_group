@@ -18,7 +18,7 @@ This website contains resources, meeting notes, and updates for our PhD/MSc and 
 ----------------------------------
 - **Date:** [November,27th - 2024]
 - **Paper:** [Paper Title] [Paper link]
-- **Presenter:** [Farzad Beizaee]
+- **Presenter:** [Presenter Name]
 ----------------------------------
 
 ## Previous Meetings
